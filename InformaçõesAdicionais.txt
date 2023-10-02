@@ -1,0 +1,12 @@
+Nomes:
+
+Guilherme Henrique Pereira Serafini - 2021.1.08.048
+Vinícius Eduardo de Souza Honório - 2021.1.08.024
+
+
+COLAB:
+https://colab.research.google.com/drive/18HReMuqzTyPdf1DtdSGwbnrAYpY4QZcA?usp=sharing
+
+
+Base de dados:
+https://www.kaggle.com/datasets/thaweewatboy/thailand-carbon-emission-statistics
